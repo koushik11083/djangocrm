@@ -1,2 +1,2 @@
 # djangocrm
-CRUD application with notification system
+CRUD application with authentication and notification system
